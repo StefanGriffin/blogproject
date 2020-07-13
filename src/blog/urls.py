@@ -6,3 +6,4 @@ urlpatterns = [
     path('about/', views.about, name='blog-about'),
 ]
 
+
